@@ -6,7 +6,16 @@
   "author": "Jovan Liu <327527689@qq.com> (https://github.com/jovanliuc/)",
   "license": "MIT",
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
+    "classnames": "^2.2.5",
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
-    "react-dom": "^16.2.0"
+    "react-dom": "^16.2.0",
+    "react-intl": "^2.4.0",
+    "react-redux": "^5.0.6",
+    "react-router": "^4.2.0",
+    "redux": "^3.7.2",
+    "redux-saga": "^0.16.0",
+    "whatwg-fetch": "^2.0.3"
   }
 }
