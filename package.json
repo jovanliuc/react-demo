@@ -1,0 +1,12 @@
+{
+  "name": "react-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jovanliuc/react-demo.git",
+  "author": "Jovan Liu <327527689@qq.com> (https://github.com/jovanliuc/)",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
